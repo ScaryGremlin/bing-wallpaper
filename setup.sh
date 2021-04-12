@@ -1,6 +1,5 @@
 #!/bin/bash
 
-cd bing-wallpaper/
 apt install python3-pip python3-virtualenv -y
 virtualenv venv --python=python3
 source venv/bin/activate
